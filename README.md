@@ -8,7 +8,7 @@ I'm a DevOps Engineer with a strong background and passion for technology. My fo
 
 # 🌐Socials:
 <a href="https://www.linkedin.com/in/nonsoi/" rel="nofollow">
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/Ezeaforjulu1" rel="nofollow">
